@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '5.0.3'
 # Use Puma as the app server
-gem 'puma', '3.6.2'
+gem 'puma', '3.12.6'
 # Use SCSS for stylesheets
 gem 'sass-rails', '5.0.6'
 # Use Uglifier as compressor for JavaScript assets
